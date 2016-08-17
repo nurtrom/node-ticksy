@@ -4,7 +4,7 @@
   "description": "Ticksy API Client for Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "should": "^11.1.0"
   },
   "dependencies": {
+    "q": "^1.4.1",
     "request": "^2.74.0"
   }
 }
