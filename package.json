@@ -1,0 +1,27 @@
+{
+  "name": "node-ticksy",
+  "version": "0.1.0",
+  "description": "Ticksy API Client for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurtrom/node-ticksy.git"
+  },
+  "keywords": [
+    "trello",
+    "api"
+  ],
+  "author": "nurtrom <nurtrom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nurtrom/node-ticksy/issues"
+  },
+  "homepage": "https://github.com/nurtrom/node-ticksy#readme",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  }
+}
