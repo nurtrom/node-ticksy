@@ -1,4 +1,4 @@
-# Ticksy API Arapper for Node
+# Ticksy API Wrapper for Node
 
 **This package in development**
 
