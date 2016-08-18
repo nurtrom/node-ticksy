@@ -41,7 +41,7 @@ myTicksy.getTicket(id).then(function(data) {
 });
 
 // getting comments for specific ticket
-myTicksy.getTicketCommets(id).then(function(data) {
+myTicksy.getTicketComments(id).then(function(data) {
     console.log(data);
 }, function(error) {
     // handle error
