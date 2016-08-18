@@ -1,6 +1,6 @@
 {
   "name": "node-ticksy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ticksy API Client for Node",
   "main": "index.js",
   "scripts": {
